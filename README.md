@@ -193,7 +193,7 @@ If you want to contribute, review the [contribution guidelines](CONTRIBUTING.md)
 </details>
 
 <details>
-<summary><b>Tanishq Abraham's solutions</b> </summary>
+<summary><b>Arnav's solutions</b> </summary>
 
   1. [Your Deep Learning Journey](https://forums.fast.ai/t/fastbook-chapter-1-questionnaire-solutions-wiki)
   2. [From Model to Production](https://forums.fast.ai/t/fastbook-chapter-2-questionnaire-solutions-wiki)
